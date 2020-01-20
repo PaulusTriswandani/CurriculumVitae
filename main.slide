@@ -15,16 +15,18 @@ devishtank@gmail.com
 - [[./cv.slide][Complete Story]]
 
 * What next
-
 - Study something
 - Build something
 - Evaluate something
 
 * Study something
-
 - my skill right now consists of :
--- programming language : c, c++, go/golang, php, java, flutter
--- language : Indonesia, Chinese, Japanese
--- cloud : Google Cloud Platform, kubernetes, docker
+	- language : Indonesia, English, Chinese, Japanese
+	- programming language : c, c++, go/golang, php, java, javascript, python, flutter
+	- cloud : Google Cloud Platform, kubernetes, docker
+- planning to further my study on these things, because I just know the skin of it and maybe add :
+	- Amazon Web Service
+	- functional programming
 
-- planning to further my study on these things, because I just know the skin of it
+* Build something
+- my imagination is not really bright right now, but I think I want to build something with websocket and video, kind of copying the youtuber jomatech, but maybe using another language

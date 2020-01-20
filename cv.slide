@@ -10,7 +10,6 @@ https://www.facebook.com/paulus.jualan
 * Academic Journey
 
 * Kindergarten School
-
 - not much I can remember about my early days
 - I got injured the first day I got into kindergarten
 - I still poop in my pants a lot, so I'm not connecting to other kids so much
@@ -18,26 +17,22 @@ https://www.facebook.com/paulus.jualan
 - Moral of the story : people doesn't remember their fault to others, but they still remember others who have hurt them
 
 * Elementary School
-
 - I kind of naughty in this stage of my life
 - I often bully other kids my age at the early days of elementary school and I have been bitten by one of the kid I bully
 - One thing that maybe trigger it is I'm stuck at 2nd place and my mother kind of force me to be number one, so I got depressed and releasing it by bullying other kids
 
 * Middle School and High School
-
 - I kind of being the good boy at this age
 - I connect with the smartest boy in my school and kind of became best friend with him
 - I also connect with one of the bad boy in my school, he's not bright but he's popular among girls
 - The smartest boy went to Singapore and stay there, the bad boy still become my friend to this day
 
 * College
-
 - I'm not particularly the second smartest in college, there kind alot of others who are smarter than me
 - I graduated late because I got sick, I try to con my way into the re-exam, but the dean said that I had to have a hospital permit to do that. I don't have that because my father is a doctor and my father know what best for me, so I cannot take that re-exam
 - I am demoralizing and my motivation got low after that, but my previous grades help me to become second best graduate from my year
 
 * College Abroad
-
 - This is kind of frustrating because I got troubled by the culture abroad
 - My roommates are criminal and my fellow student are bullies
 - Kind of depressed alot and want go straight to find work
@@ -47,37 +42,31 @@ https://www.facebook.com/paulus.jualan
 * Work Experience
 
 * Exam Watcher
-
 - this is my first job
 - I watch examinee and wait for the exam to end
 - No particular problem when I watch them
 
 * Vice Chief of Computer Science Student Organization
-
 - Join because it sounds cool if you have organization background
 - Not learning much because the one who thinks alot are not me, but my underlings
 
 * IT Support Staff at Parahyangan Catholic University Computer Center
-
 - Learn alot about networking, cabling, linux stuff
 - First time to see a server room and its mess
 - The senior is kind of scary and don't want to teach me, but I motivated to learn it by myself
 
 * Intermediate Software Developer at Imocha
-
 - The main office is in Malaysia, Kuala Lumpur but the branch office is in Indonesia, Bogor
 - Have been sent to Kuala Lumpur once, a good experience to feel how work works
 - Coding with Java, especially using struts2, ejb, mysql
 - Nothing special, just CRUD (Create Read Update Delete) and some front end
 
 * Software Developer at GLOBEX
-
 - Build web based stock auction system
 - First time exposed to javascript
 - Kind of overwhelmed with the commute in Jakarta, Indonesia so decide to resign after one month due to health problem
 
 * Software Engineer at Anabatics
-
 - First time exposed to team management system
 - First time exposed to procedure call in SQL Server Database
 - Kind of grateful to feel to be a part of a big machine
@@ -86,7 +75,6 @@ https://www.facebook.com/paulus.jualan
 * Problems
 
 * How My Mental Health is Shakened
-
 - my money is stolen at South China University of Technology, Guangzhou, China, and later I found out that my roommate is the one who stole it.
 - That event leads to lack of nutrition because I have to save my money and survived with the little money I had
 - I'm being bullied by my roommate's friends across the university
@@ -98,7 +86,23 @@ https://www.facebook.com/paulus.jualan
 * What Now (Evaluation of My Life)
 
 * Moral of the Story
-
 - Don't ever bother try to be a nice guy, nobody appreciate your kindness, everybody just want result
 - Don't expect good deeds will return with good deeds, the world doesn't work like that
 - Being nice if you're comfortable to be nice in front of those people, but if you're not comfortable with them, just be an asshole and it's fine
+
+* Previous Projects
+
+* Business and Resources Management System
+System for automated business and resources management at banking facility
+
+In this project, I am responsible to develop back end system using EJB3 framework and test its output at Glassfish Application Server using Struts2 framework
+
+* Liquidity Management System
+System for liquidity management to manage complicated investment system that's automatically being done everyday.
+
+In this project, I am responsible to develop front end system that's using JQuery interactive display.
+
+* Reporting System
+These actually include several existing system to build its reporting system.
+
+In this project, I am responsible to develop reports to CSV, PDF, XLS, and HTML using displaytag.
