@@ -1,0 +1,26 @@
+Redmi Note 7 Flashing Story
+From Fastboot to Deep Flash Cable
+
+Paulus Triswandani
+29 March 2020
+devishtank@gmail.com
+
+* History
+
+- My mother handphone bootlooped
+- I flashed it with global rom through PC, result was bricked
+- Checked the phone through PC, status is Emergency Download Mode 9008 (EDL Mode 9008)
+- try many things, nothing worked
+- latest effort, use Xiaomi Tools (XMT), got bricked even worse, now the status is not able to connect to the phone
+- status now, regretfully study more with low morale
+
+* Lesson Learned
+- Don't be lazy, study more
+- More is less pain (at least to my morale)
+
+* First Things First, Bootlooped
+What happened after bootlooped?
+
+* What I did after bootlooped?
+- check the internet about how to get out of bootlooped
+- I found out that
