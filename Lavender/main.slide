@@ -23,4 +23,7 @@ What happened after bootlooped?
 
 * What I did after bootlooped?
 - check the internet about how to get out of bootlooped
-- I found out that
+- I found out that to get out of bootloop I need to install something called ROM
+- I search for the default ROM and found global MiUI ROM
+- turn out it doesn't work, and I make it worse, it became EDL Mode 9008
+- I try many things again and it got worse again, cannot read the device anymore
